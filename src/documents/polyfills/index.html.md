@@ -1,6 +1,6 @@
 ---
 title: 'Polyfills'
-layout: polyfills
+layout: poly fills 
 ---
 
 ## Introduction
